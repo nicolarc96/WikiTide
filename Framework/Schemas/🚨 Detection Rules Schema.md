@@ -95,6 +95,7 @@ response:
     #containment: |
       #...
 
-configurations: {}
+configurations:
+  #defender_for_endpoint:
 ```
 
